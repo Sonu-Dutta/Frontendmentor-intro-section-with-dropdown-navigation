@@ -1,11 +1,11 @@
-![Intro section with dropdown navigation](project-preview.png)
+![Intro section with dropdown navigation](images/project-ss.png)
 
 # Intro section with dropdown navigation
 
 <div align="center">
 
 [Live](https://github.com/Sonu-Dutta/Frontendmentor-intro-section-with-dropdown-navigation/)
-| [Solution](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-V6T07Ji6vJ)
+| [Solution](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-QYRRm92skP)
 | [Challenge](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-V6T07Ji6vJ)
