@@ -41,4 +41,4 @@ A very easy project to keep updated with the Frontend Mentor projects and rememb
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-V6T07Ji6vJ). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5/hub). It definitely helps to find new ways to code and find easier solutions!
